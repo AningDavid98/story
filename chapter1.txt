@@ -1,1 +1,1 @@
-welcome to my git and version control praticals.
+welcome to my git and version control praticals. this file talks about using git and github to save your works.
